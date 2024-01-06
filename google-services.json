@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1023536725145",
+    "firebase_url": "https://drcool-chat-app-default-rtdb.firebaseio.com",
+    "project_id": "drcool-chat-app",
+    "storage_bucket": "drcool-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023536725145:android:ffbbb3500be8e82d8fcc08",
+        "android_client_info": {
+          "package_name": "com.drrcool.MyChatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023536725145-3hk3j5uevmrspgjl4oimkcjgcf9kj4og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb9v10sc-YXst1fur1jy-TdiLuo7V3J6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023536725145-3hk3j5uevmrspgjl4oimkcjgcf9kj4og.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1023536725145-4025i9q74bkt6935482tl70mg15ce1rn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.drrcool.MyChatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
